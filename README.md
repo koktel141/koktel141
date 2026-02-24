@@ -1,7 +1,7 @@
 ## Hi there 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **[Rust Inventory Manager](https://github.com/koktel141/rust-inventory-manager)**
+- 🔭 I’m currently working on something
 - 🌱 I’m currently learning **C# and Advanced AI concepts**
 - 👯 I’m looking to collaborate on **Open source Rust projects and CLI tools**
 - 🤝 I’m looking for help with **Rust File I/O and Data Persistence (JSON/CSV)**
