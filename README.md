@@ -7,7 +7,7 @@
 - 🤝 I’m looking for help with **Rust File I/O and Data Persistence (JSON/CSV)**
 - 💬 Ask me about **Rust basics, Structs, Enums, and Git workflow**
 - ⚡ Fun fact: **I have 3 years of experience in Robotics and C++ development!**
-- - 🚀 Transitioning my 3 years of C++ Robotics experience (STM32/ATmega) into the world of Embedded Rust.
+- 🚀 Transitioning my 3 years of C++ Robotics experience (STM32/ATmega) into the world of Embedded Rust.
 
 ---
 
